@@ -16,7 +16,7 @@ As you can see the *Light* and *Dark* variants of use the same color values exce
 
 The greyscale colors aren't a true gradient from one color to another, the Lightness (HSL) values are as follows:
 
-
+![rowan_greyscale](https://user-images.githubusercontent.com/17025808/159725136-6485ecd7-2fc0-4125-987e-2369f15518b7.png)
 
 ## Colors Info / Guidelines
 | Short Name | Color Name | Light | Dark | Apply on | Description |
