@@ -47,4 +47,4 @@ For usage guidelines of the colors [it's here](https://github.com/BenSouchet/row
 | inserted | #42B52B | (66, 181, 43) | (110, 76.24%, 70.98%) | (110, 61.61%, 43.92%) | (65.26, -56.86, 56.66) |
 
 ### About Color Convertion
-The color convertions has been done with **[Colorizer.org](http://colorizer.org/)**, top website with extreme precision on values.
+The color convertions has been done with **[Colorizer.org](http://colorizer.org/)**.

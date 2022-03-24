@@ -55,13 +55,13 @@ If you implement this palette as a color theme somewhere, code comments should b
 **Rowan** is a seventeen (17) color palette but if you need (or are restricted) to only sixteen colors, you can ignore the accent (`acc`) color or use the numbers (`nbr`) color for the Diff Inserted texts.
 
 ## Version
-The current version is `1.0`, you can download the latest release on the **Releases** category (on the sidebar) or from [this page](https://github.com/BenSouchet/rowan/releases).
+The current version is `1.0.1`, you can download the latest release on the **Releases** category (on the sidebar) or from [this page](https://github.com/BenSouchet/rowan/releases).
 
 ## Others Ressouces & Useful links
 - [Sorbus Auto-Theme for Rouge Highlighter](https://github.com/BenSouchet/sorbus), in this project **Rowan** is the default color palette.
 - [Polarized Color Palette](https://github.com/BenSouchet/polarized), another cool color palette (based on Solarized).
 - [Color Blend](https://bensouchet.github.io/color-blend/), website to blend two colors and generate intermediates colors.
-- [mycolor.space](https://mycolor.space/), top wevbsite to find matching colors, generate palettes.
+- [mycolor.space](https://mycolor.space/), top website to find matching colors, generate palettes.
 - [Colorizer.org](http://colorizer.org/), super tool to convert and play with colors into multiples color models (HSV, HSL, Lab, ...).
 
 ## Author & maintainer
