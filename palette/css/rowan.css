@@ -1,0 +1,40 @@
+/* Rowan v1.0 - Ben Souchet */
+.rowan-light {
+  --rowan-bgr: #F3F3F3;
+  --rowan-hgl: #DBDBDB;
+  --rowan-sel: #C4C4C4;
+  --rowan-com: #909090;
+  --rowan-lin: #5C5C5C;
+  --rowan-def: #454545;
+  --rowan-acc: #2D2D2D;
+  --rowan-kwd: #525252;
+  --rowan-esc: #B58B00;
+  --rowan-res: #D44B20;
+  --rowan-opr: #C52A65;
+  --rowan-str: #8B4DDA;
+  --rowan-var: #376FE1;
+  --rowan-nam: #009B76;
+  --rowan-nbr: #929910;
+  --rowan-err: #C82F2F;
+  --rowan-ins: #42B52B;
+}
+
+.rowan-dark {
+  --rowan-bgr: #2D2D2D;
+  --rowan-hgl: #454545;
+  --rowan-sel: #5C5C5C;
+  --rowan-com: #909090;
+  --rowan-lin: #C4C4C4;
+  --rowan-def: #DBDBDB;
+  --rowan-acc: #F3F3F3;
+  --rowan-kwd: #CFCFCF;
+  --rowan-esc: #B58B00;
+  --rowan-res: #D44B20;
+  --rowan-opr: #C52A65;
+  --rowan-str: #8B4DDA;
+  --rowan-var: #376FE1;
+  --rowan-nam: #009B76;
+  --rowan-nbr: #929910;
+  --rowan-err: #C82F2F;
+  --rowan-ins: #42B52B;
+}

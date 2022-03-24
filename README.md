@@ -52,7 +52,10 @@ There is also files in the [`palette/` folder](https://github.com/BenSouchet/row
 If you implement this palette as a color theme somewhere, code comments should be displayed in *italics*, and keywords should be in **bold** (to easily identify them).
 
 ## Sixteen Color Palette
-**Polarized** is a seventeen (17) color palette but if you need (or are restricted) to only sixteen colors, you can ignore the accent (`acc`) color or use the numbers (`nbr`) color for the Diff Inserted texts.
+**Rowan** is a seventeen (17) color palette but if you need (or are restricted) to only sixteen colors, you can ignore the accent (`acc`) color or use the numbers (`nbr`) color for the Diff Inserted texts.
+
+## Version
+The current version is `1.0`, you can download the latest release on the **Releases** category (on the sidebar) or from [this page](https://github.com/BenSouchet/rowan/releases).
 
 ## Others Ressouces & Useful links
 - [Sorbus Auto-Theme for Rouge Highlighter](https://github.com/BenSouchet/sorbus), in this project **Rowan** is the default color palette.
@@ -62,6 +65,6 @@ If you implement this palette as a color theme somewhere, code comments should b
 - [Colorizer.org](http://colorizer.org/), super tool to convert and play with colors into multiples color models (HSV, HSL, Lab, ...).
 
 ## Author & maintainer
-Polarized has been created and is currently maintained by [Ben Souchet](https://github.com/BenSouchet).
+Rowan has been created and is currently maintained by [Ben Souchet](https://github.com/BenSouchet).
 
 All the files present in this repository are under [MIT license](https://github.com/BenSouchet/rowan/blob/main/LICENSE).
